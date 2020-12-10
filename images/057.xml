@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>057.tif</filename>
+	<path>/home/niaa/Documents/skripsi/DATASET/train/057.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BTA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1947</xmin>
+			<ymin>399</ymin>
+			<xmax>1969</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>
