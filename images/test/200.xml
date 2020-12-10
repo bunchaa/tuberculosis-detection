@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>210.tif</filename>
+	<path>/home/niaa/Documents/skripsi/DATASET/test/210.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BTA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1447</xmin>
+			<ymin>39</ymin>
+			<xmax>1479</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>
